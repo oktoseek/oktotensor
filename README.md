@@ -1,7 +1,9 @@
 <p align="center">
   <img src="./assets/okto_logo.png" alt="OktoTensor" width="50%" />
 </p>
-
+<p align="center">
+  <img src="./assets/okto_logo2.png" alt="OktoSeek" width="50%" />
+</p>
 <h1 align="center">OktoTensor</h1>
 
 <p align="center">
